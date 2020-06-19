@@ -8,7 +8,7 @@ Hoje, operamos duas marcas principais que são líderes em seus respectivos segm
 - Crie uma REST API que receba seu nome e retorne seu currículo em JSON
 - Por exemplo, o request na sua api `https://minha-api.com/{nome}` deve retornar:
    `{                      
-    "id": 10,                   
+    "email": joao@email.com,                   
     "nome": "joão",             
     ...                 
   }`                                                  
