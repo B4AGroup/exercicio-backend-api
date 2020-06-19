@@ -6,12 +6,15 @@ Hoje, operamos duas marcas principais que são líderes em seus respectivos segm
 
 ### Teste
 - Crie uma REST API que receba seu nome e retorne seu currículo em JSON
-- Por exemplo, o request na sua api `https://minha-api.com/{nome}` deve retornar:
-   `{                      
+- Por exemplo, o request na sua api `http://localhost:8080/curriculo/{nome}` deve retornar:
+
+   ```
+   {                      
     "email": joao@email.com,                   
     "nome": "joão",             
     ...                 
-  }`                                                  
+  }
+  ```                                               
 
 ### Linguagem, tecnologia e bibliotecas
 - Você pode desenvolver em qualquer linguagem
