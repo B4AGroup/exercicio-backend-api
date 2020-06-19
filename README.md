@@ -16,9 +16,9 @@ Hoje, operamos duas marcas principais que são líderes em seus respectivos segm
   }
   ```                                               
 
-# Linguagem, tecnologia e bibliotecas
+### Linguagem, tecnologia e bibliotecas
 - Você pode desenvolver em qualquer linguagem
 - Você pode utilizar frameworks ou bibliotecas de sua preferência
 
-# Entrega
+### Entrega
 - Enviar o link do repositório referente ao teste com o nome da vaga no assunto
